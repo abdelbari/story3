@@ -1,2 +1,4 @@
 chapter4secret.txt
 /secret2
+.DS_Store
+.gitignore
